@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeQuiet!</string>
+    <string name="done">done</string>
+    <string name="am_pm">HH : MM </string>
+    <string name="note">Note: press the button after picking the desired time option</string>
+    <string name="to">to</string>
+    <string name="from">from</string>
+    <string name="choose_day">Choose one day</string>
+    <string name="note_">Swipe to delete any profile</string>
+</resources>
